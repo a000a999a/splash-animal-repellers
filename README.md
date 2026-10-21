@@ -1,2 +1,2 @@
 # splash-animal-repeller
-works based on the other repos water valve and camera AI detection of animals
+works based on the other repos water valve and camera AI detection of animals. splash unwanted visitors away ;-)
